@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nathasha-Sandanayake
 - 👀 I’m interested in Cyber Security and Backend Development
 - 🌱 I’m currently learning Software Engineering
-- ⚡ Fun fact - I play Genshin Impact.
+- ⚡ Fun fact - I play Genshin Impact and I love to watch horror movies.
 
 
 <!---
