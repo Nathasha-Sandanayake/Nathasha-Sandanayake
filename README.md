@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathasha-Sandanayake
 - 🌱 I’m currently learning Software Engineering
-- ⚡ Fun fact - I play Genshin Impact and I love to watch horror movies.
+
 
 
 <!---
