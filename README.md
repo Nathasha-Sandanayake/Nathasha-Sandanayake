@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nathasha-Sandanayake
 - ☁️ Cloud Engineer Intern | AWS Enthusiast
 - Passionate about building scalable cloud infrastructure ☁️
+- Exploring automation, DevOps 🚀
 
 
 
