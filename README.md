@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nathasha-Sandanayake
-- 🌱 I’m currently learning Software Engineering
+- ☁️ Cloud Engineer Intern | AWS Enthusiast
+- Passionate about building scalable cloud infrastructure ☁️
 
 
 
