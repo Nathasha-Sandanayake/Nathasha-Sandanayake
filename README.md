@@ -5,15 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathasha-sandanayake" alt="nathasha-sandanayake" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform,Kubernates,go**
+- 🌱 I’m currently learning **Terraform,Kubernates,Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nathasha-Sandanayake](https://github.com/Nathasha-Sandanayake)
 
 - 💬 Ask me about **AWS and cloud concepts.**
 
+- ⚡ Fun fact **: I am learning Go because I love the mascot.😉**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathasha sandanayake" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nathasha sandanayake" height="30" width="40" /></a>
 <a href="https://medium.com/@nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nathasha sandanayake" height="30" width="40" /></a>
 </p>
 
