@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS and cloud concepts.**
 
-- ⚡ Fun fact **I am learning Go because I love the mascot.😉**
+- ⚡ Fun fact **I learn Go because I love the mascot.😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
