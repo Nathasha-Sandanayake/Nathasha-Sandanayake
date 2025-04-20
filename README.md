@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nathasha Sandanayake</h1>
-<h3 align="center">A Cloud Engineer intern.</h3>
+<h3 align="center">A Cloud Engineer Intern.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathasha-sandanayake&label=Profile%20views&color=0e75b6&style=flat" alt="nathasha-sandanayake" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathasha-sandanayake" alt="nathasha-sandanayake" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform,Kubernates,Go**
+- 🌱 I’m currently learning **Terraform, Kubernates, Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nathasha-Sandanayake](https://github.com/Nathasha-Sandanayake)
 
 - 💬 Ask me about **AWS and cloud concepts.**
 
-- ⚡ Fun fact **: I am learning Go because I love the mascot.😉**
+- ⚡ Fun fact **I am learning Go because I love the mascot.😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathasha sandanayake" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nathasha sandanayake" height="30" width="40" /></a>
-<a href="https://medium.com/@nathasha sandanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nathasha sandanayake" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathasha-sandanayake-28b83628a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathasha-sandanayake-28b83628a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30319908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30319908" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
