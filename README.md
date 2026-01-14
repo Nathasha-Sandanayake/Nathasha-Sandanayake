@@ -1,17 +1,15 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Nathasha Sandanayake</h1>
-<h3 align="center">A Cloud Engineer Intern.</h3>
+<h3 align="center">Associate Cloud Engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathasha-sandanayake&label=Profile%20views&color=0e75b6&style=flat" alt="nathasha-sandanayake" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathasha-sandanayake" alt="nathasha-sandanayake" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform, Kubernates, Go**
+- 🌱 I’m currently learning **Terraform, Kubernates and Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nathasha-Sandanayake](https://github.com/Nathasha-Sandanayake)
 
 - 💬 Ask me about **AWS and cloud concepts.**
-
-- ⚡ Fun fact **I learn Go because I love the mascot.😉**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
