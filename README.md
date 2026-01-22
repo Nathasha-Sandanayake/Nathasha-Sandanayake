@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Nathasha Sandanayake</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Nathasha Sandanayake 🤖</h1>
 <h3 align="center">A friendly Cloud and DevOps enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nathasha-sandanayake&label=Profile%20views&color=0e75b6&style=flat" alt="nathasha-sandanayake" /> </p>
